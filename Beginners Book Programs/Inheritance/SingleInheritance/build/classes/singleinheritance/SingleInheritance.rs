@@ -1,0 +1,3 @@
+singleinheritance.SingleInheritance
+singleinheritance.B
+singleinheritance.A

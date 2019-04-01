@@ -1,0 +1,3 @@
+anonymousinnerclassasargument.Message
+anonymousinnerclassasargument.AnonymousInnerClassAsArgument$1
+anonymousinnerclassasargument.AnonymousInnerClassAsArgument

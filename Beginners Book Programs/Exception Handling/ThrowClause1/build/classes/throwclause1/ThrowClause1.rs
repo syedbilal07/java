@@ -1,0 +1,2 @@
+throwclause1.Exception
+throwclause1.ThrowClause1

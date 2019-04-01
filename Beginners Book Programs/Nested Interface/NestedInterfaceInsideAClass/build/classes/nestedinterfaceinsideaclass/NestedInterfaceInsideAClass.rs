@@ -1,0 +1,4 @@
+nestedinterfaceinsideaclass.myClass
+nestedinterfaceinsideaclass.OverridingClass
+nestedinterfaceinsideaclass.NestedInterfaceInsideAClass
+nestedinterfaceinsideaclass.myClass$A

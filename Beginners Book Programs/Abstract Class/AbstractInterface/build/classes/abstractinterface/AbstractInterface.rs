@@ -1,0 +1,3 @@
+abstractinterface.Multiply
+abstractinterface.Result
+abstractinterface.AbstractInterface

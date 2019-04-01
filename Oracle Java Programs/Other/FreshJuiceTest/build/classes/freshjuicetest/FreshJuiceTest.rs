@@ -1,0 +1,3 @@
+freshjuicetest.FreshJuice$FreshJuiceSize
+freshjuicetest.FreshJuice
+freshjuicetest.FreshJuiceTest

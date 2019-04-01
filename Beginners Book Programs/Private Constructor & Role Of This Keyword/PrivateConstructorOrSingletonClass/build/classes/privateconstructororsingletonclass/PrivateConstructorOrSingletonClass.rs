@@ -1,0 +1,2 @@
+privateconstructororsingletonclass.PrivateConstructorOrSingletonClass
+privateconstructororsingletonclass.SingleClass

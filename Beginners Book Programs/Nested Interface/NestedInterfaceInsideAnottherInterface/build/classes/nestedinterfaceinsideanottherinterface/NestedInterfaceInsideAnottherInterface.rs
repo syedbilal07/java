@@ -1,0 +1,4 @@
+nestedinterfaceinsideanottherinterface.NestedInterfaceInsideAnottherInterface
+nestedinterfaceinsideanottherinterface.A
+nestedinterfaceinsideanottherinterface.Interface
+nestedinterfaceinsideanottherinterface.A$B
